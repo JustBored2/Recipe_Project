@@ -1,2 +1,2 @@
 # Recipe_Project
-This is a project from all i learned about HTML
+This is a project in wich i show you the things i learned in HTML.
